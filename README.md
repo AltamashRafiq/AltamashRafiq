@@ -1,4 +1,4 @@
-Welcome! I’m Altamash, a data scientist at 2nd Order Solutions :) 
+Welcome! I’m Altamash, a data scientist at 2nd Order Solutions :smile: 
 I use cutting edge machine learning and analytics to deliver impactful
 credit risk and lending solutions for leading financial institutions, banks, and fintechs.
 
