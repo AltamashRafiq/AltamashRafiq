@@ -18,5 +18,5 @@ if you ever want to chat!
 ## Major Projects
 
 <p align="left">
-  <a href="https://github.com/RamiKrispin/coronavirus"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Altamash Rafiq&repo=OpenWorldLogoDetection &theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="OpenWorldLogoDetection "></a>
+  <a href="https://github.com/AltamashRafiq/OpenWorldLogoDetection"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Altamash Rafiq&repo=OpenWorldLogoDetection &theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="OpenWorldLogoDetection "></a>
 </p>
