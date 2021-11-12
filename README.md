@@ -1,4 +1,4 @@
-## Hi there, I'm Altamash :wave:
+## Hi there, I'm Altamash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Welcome! I’m Altamash, a data scientist at 2nd Order Solutions :smile: 
 I use cutting edge machine learning and analytics to deliver impactful
